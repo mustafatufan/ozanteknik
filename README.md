@@ -1,1 +1,1 @@
-# [Tufan Elektronik](https://tufanelektronik.com)
+# [Ozan Teknik Sıhhi Tesisat](https://ozanteknik.com)
