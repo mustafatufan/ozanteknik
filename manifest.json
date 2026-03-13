@@ -1,0 +1,10 @@
+{
+  "name": "Ozan Teknik Sıhhı Tesisat",
+  "short_name": "Ozan Teknik",
+  "description": "Balçova İzmir'de sıhhı tesisat, jeotermal, kat kaloriferi, banyo ve mutfak tadilatı hizmetleri.",
+  "start_url": "/",
+  "display": "browser",
+  "background_color": "#1a1a1a",
+  "theme_color": "#1a1a1a",
+  "lang": "tr"
+}
